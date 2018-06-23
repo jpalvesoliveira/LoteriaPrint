@@ -10,3 +10,16 @@ C:\Users\jpalv\source\repos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\Loter
 C:\Users\jpalv\source\repos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\jpalv\source\repos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.exe
 C:\Users\jpalv\source\repos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.pdb
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.ConsoleApp.exe.config
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.ConsoleApp.exe
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.ConsoleApp.pdb
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Core.dll
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Domain.dll
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Core.pdb
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Domain.pdb
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Domain.dll.config
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.csproj.CopyComplete
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.exe
+C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.pdb

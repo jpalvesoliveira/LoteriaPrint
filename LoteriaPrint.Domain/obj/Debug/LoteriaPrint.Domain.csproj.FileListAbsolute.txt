@@ -6,3 +6,12 @@ C:\Users\jpalv\source\repos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPr
 C:\Users\jpalv\source\repos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.dll
 C:\Users\jpalv\source\repos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.pdb
 C:\Users\jpalv\source\repos\LoteriaPrint\LoteriaPrint.Domain\bin\Debug\System.Drawing.Common.dll
+C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\bin\Debug\LoteriaPrint.Domain.dll.config
+C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\bin\Debug\LoteriaPrint.Domain.dll
+C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\bin\Debug\LoteriaPrint.Domain.pdb
+C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\bin\Debug\System.Drawing.Common.dll
+C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.csprojAssemblyReference.cache
+C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.csproj.CopyComplete
+C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.dll
+C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.pdb

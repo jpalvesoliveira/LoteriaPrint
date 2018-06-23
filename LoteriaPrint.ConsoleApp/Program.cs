@@ -16,10 +16,12 @@ namespace LoteriaPrint.ConsoleApp
             Bilhete bilhete;
             IPrintService service;
 
-            bilhete = new MegaSena();
+            //bilhete = new MegaSena();
+            bilhete = new Quina();
             service = new GDIPrintService();
 
-            bilhete.SortedNumbers = new List<byte>(){ 5, 9, 15, 27, 30, 43 };
+            bilhete.SortedNumbers = new List<byte>() { 1, 2, 8, 11, 71};
+            //bilhete.SortedNumbers = new List<byte>() { 1, 2, 12, 5, 6, 9, 11, 15, 27, 30, 43 };
             service.Print(bilhete);
         }
     }
