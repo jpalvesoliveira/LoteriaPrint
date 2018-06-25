@@ -9,7 +9,15 @@ namespace LoteriaPrint.Domain.Model
     {
         public LotoFacil() : base(new PaperSize("LF",
                                                 Convert.ToInt32(ConfigurationManager.AppSettings["LFWidth"]),
-                                                Convert.ToInt32(ConfigurationManager.AppSettings["LFHeigth"])), 6, 10, 0.5f, new float[] { 3.0f, 3.0f, 2.0f })
+                                                Convert.ToInt32(ConfigurationManager.AppSettings["LFHeigth"])),
+                                                Convert.ToByte(ConfigurationManager.AppSettings["LFCols"]),
+                                                Convert.ToByte(ConfigurationManager.AppSettings["LFLines"]),
+                                                14.25f,
+                                                9.5f,
+                                                4.75f,
+                                                14.25f,
+                                                542.73f,
+                                                new float[] { 3.0f, 3.0f, 2.0f })
         {
         }
 

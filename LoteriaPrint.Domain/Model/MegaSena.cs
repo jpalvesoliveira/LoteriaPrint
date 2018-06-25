@@ -7,7 +7,15 @@ namespace LoteriaPrint.Domain.Model
 {
     public class MegaSena : Bilhete
     {
-        public MegaSena() : base(new PaperSize("MS", 200 ,300), 10, 6, 1.5f, new float[] { 20.0f, 11.0f, 2.0f })
+        public MegaSena() : base(new PaperSize("MS", 200 ,300), 
+                                 10, 
+                                 6,
+                                 14.25f,
+                                 9.5f,
+                                 4.75f,
+                                 14.25f,
+                                 542.73f,
+                                 new float[] { 20.0f, 11.0f, 2.0f })
         {
         }
 

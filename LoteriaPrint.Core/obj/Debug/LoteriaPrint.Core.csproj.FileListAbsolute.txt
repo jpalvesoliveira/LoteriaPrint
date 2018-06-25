@@ -17,3 +17,13 @@ C:\Projetos\LoteriaPrint\LoteriaPrint.Core\obj\Debug\LoteriaPrint.Core.csproj.Co
 C:\Projetos\LoteriaPrint\LoteriaPrint.Core\obj\Debug\LoteriaPrint.Core.csproj.CopyComplete
 C:\Projetos\LoteriaPrint\LoteriaPrint.Core\obj\Debug\LoteriaPrint.Core.dll
 C:\Projetos\LoteriaPrint\LoteriaPrint.Core\obj\Debug\LoteriaPrint.Core.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\bin\Debug\LoteriaPrint.Core.dll
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\bin\Debug\LoteriaPrint.Core.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\bin\Debug\LoteriaPrint.Domain.dll
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\bin\Debug\LoteriaPrint.Domain.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\bin\Debug\LoteriaPrint.Domain.dll.config
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\obj\Debug\LoteriaPrint.Core.csprojResolveAssemblyReference.cache
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\obj\Debug\LoteriaPrint.Core.csproj.CoreCompileInputs.cache
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\obj\Debug\LoteriaPrint.Core.csproj.CopyComplete
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\obj\Debug\LoteriaPrint.Core.dll
+C:\GitHub\LoteriaPrint\LoteriaPrint.Core\obj\Debug\LoteriaPrint.Core.pdb

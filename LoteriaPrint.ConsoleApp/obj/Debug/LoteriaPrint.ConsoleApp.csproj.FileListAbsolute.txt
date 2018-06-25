@@ -23,3 +23,16 @@ C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleA
 C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.csproj.CopyComplete
 C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.exe
 C:\Projetos\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.ConsoleApp.exe.config
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.ConsoleApp.exe
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.ConsoleApp.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Core.dll
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Domain.dll
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Core.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Domain.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\bin\Debug\LoteriaPrint.Domain.dll.config
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.csproj.CopyComplete
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.exe
+C:\GitHub\LoteriaPrint\LoteriaPrint.ConsoleApp\obj\Debug\LoteriaPrint.ConsoleApp.pdb

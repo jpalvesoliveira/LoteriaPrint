@@ -23,8 +23,8 @@ namespace LoteriaPrint.Core.Services
 
         private void Doc_QueryPageSettings(object sender, QueryPageSettingsEventArgs e)
         {
-            //e.PageSettings.PaperSize = currentBilhete.PaperSize;
-            e.PageSettings.PaperSize = new PaperSize("210 x 297 mm", 800, 800);
+            e.PageSettings.PaperSize = bilhete.PaperSize;
+            //e.PageSettings.PaperSize = new PaperSize("210 x 297 mm", 800, 800);
         }
 
         private void Doc_PrintPage(object sender, PrintPageEventArgs e)
@@ -38,13 +38,17 @@ namespace LoteriaPrint.Core.Services
                 mR = bilhete.Margins[0];
 
                 for (int j = 0; j < bilhete.Columns; j ++)
-                {    
+                {
                     if (bilhete.SortedNumbers.Contains(bilhete.Numbers[i, j]))
-                        e.Graphics.FillRectangle(Brushes.Black, new RectangleF(mR, mU, 10 * 1.9f, 5 * 1.9f));
-                    mR += bilhete.Space + (12 * 1.9f);
+                        e.Graphics.FillRectangle(Brushes.Black, new RectangleF((int) mR, (int)mU, bilhete.Width, bilhete.Height));
+                    mR += bilhete.SpaceH + bilhete.Width;
                 }
-                mU += (float) (8.2 * 1.9);
+                mU += bilhete.Height + bilhete.SpaceV;
             }
+
+            mU = bilhete.Count;
+            mR = 0;
+            e.Graphics.FillRectangle(Brushes.Black, new RectangleF((int)mR, (int)mU, bilhete.Width, bilhete.Height));
         }
     }
 }

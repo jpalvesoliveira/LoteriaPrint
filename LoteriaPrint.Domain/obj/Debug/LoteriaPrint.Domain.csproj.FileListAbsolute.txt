@@ -15,3 +15,12 @@ C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.cspro
 C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.csproj.CopyComplete
 C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.dll
 C:\Projetos\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.csprojResolveAssemblyReference.cache
+C:\GitHub\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.csproj.CoreCompileInputs.cache
+C:\GitHub\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.dll
+C:\GitHub\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.Domain\bin\Debug\LoteriaPrint.Domain.dll.config
+C:\GitHub\LoteriaPrint\LoteriaPrint.Domain\bin\Debug\LoteriaPrint.Domain.dll
+C:\GitHub\LoteriaPrint\LoteriaPrint.Domain\bin\Debug\LoteriaPrint.Domain.pdb
+C:\GitHub\LoteriaPrint\LoteriaPrint.Domain\bin\Debug\System.Drawing.Common.dll
+C:\GitHub\LoteriaPrint\LoteriaPrint.Domain\obj\Debug\LoteriaPrint.Domain.csproj.CopyComplete
