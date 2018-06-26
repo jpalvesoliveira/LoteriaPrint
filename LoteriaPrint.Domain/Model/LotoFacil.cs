@@ -9,22 +9,22 @@ namespace LoteriaPrint.Domain.Model
     {
         public LotoFacil() : base(new PaperSize("LF",
                                                 Convert.ToInt32(ConfigurationManager.AppSettings["LFWidth"]),
-                                                Convert.ToInt32(ConfigurationManager.AppSettings["LFHeigth"])), 6, 10, 0.5f, new float[] { 3.0f, 3.0f, 2.0f })
+                                                Convert.ToInt32(ConfigurationManager.AppSettings["LFHeigth"])), 5, 5, 0.5f, new float[] { 3.0f, 3.0f, 2.0f })
         {
         }
 
         public override void InitializeNumbers()
         {
-            /*byte last = 1;
-            Numbers = new List<byte>();
-            for (int i = 1; i <= Lines; i++)
+            byte last = 1;
+            Numbers = new byte[Lines, Columns];
+            for (int i = Columns - 1; i >= 0; i--)
             {
-                for (int j = 1; j <= Columns; j++)
+                for (int j = 0; j < Lines; j++)
                 {
-                    Numbers.Add(last);
+                    Numbers[j, i] = last;
                     last += 1;
                 }
-            }*/
+            }
         }
     }
 }
